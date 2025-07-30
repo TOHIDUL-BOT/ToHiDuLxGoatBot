@@ -28,7 +28,7 @@
     "notes": "levelRequirement: minimum level to become VIP automatically, permanentVip: array of permanent VIP user IDs, temporaryVip: object with temporary VIP data"
   },
   "nickNameBot": "Ew'r MaKiMa",
-  "prefix": ".",
+  "prefix": "/",
   "database": {
     "type": "mongodb",
     "uriMongodb": "mongodb+srv://botpack12:DlIlWzYMRw6He0eO@tohibot.wdqw4h2.mongodb.net/?retryWrites=true&w=majority&appName=TOHIBOT",
